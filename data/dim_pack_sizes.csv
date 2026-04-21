@@ -1,0 +1,10 @@
+pack_size_id,units_per_pack,description
+1,1,Single
+2,4,4-pack
+3,6,6-pack
+4,12,12-pack
+5,18,18-pack 
+6,8,8-pack
+7,15,15-pack
+8,24,24-pack
+9,20,20-pack
