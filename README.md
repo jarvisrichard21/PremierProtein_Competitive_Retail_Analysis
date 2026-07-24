@@ -47,5 +47,3 @@ Dates are stored directly in the fact tables, not in a separate date dimension.
 
 * Promotion effectiveness
 
-## Insights
-
