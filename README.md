@@ -1,7 +1,6 @@
 ## Premier Protein Competitive Retail Analysis
 A compact retail analytics project examining Premier Protein pricing and pack‑size strategy across multiple retailers. Built using a dimensional model, SQL transformations, and clean CSV‑based data ingestion.
 
-<img src="images/data-analysis.svg" alt="clipart of magnifying glass and chart"/>
 
 ## This project analyzes competitive pricing for Premier Protein products using:
 
