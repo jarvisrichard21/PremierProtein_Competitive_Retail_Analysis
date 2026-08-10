@@ -41,8 +41,12 @@ Dates are stored directly in the fact tables, not in a separate date dimension.
 
 * Unit price comparison
 
-## Insights 
-*Walmart has the largest assortment of flavor options for Premier Protein. In this dataset, it accounted for nearly half of total listings. Walmart continues to deliver on flavor assortment because it makes extensive use of its online channel. 
+## Selected Insights 
+*Walmart has the largest variety of options for Premier Protein. In this dataset, it accounted for nearly half of total listings. Walmart continues to deliver on variety because it makes extensive use of its online channel. 
+
+
+<img src="images/pie-chart-retail.png" alt="This pie chart shows that Walmart offers the largest variety of Premier Protein compared to Target, Costco and Kroger"/>
+
 
 
 * Retailer pricing behavior
