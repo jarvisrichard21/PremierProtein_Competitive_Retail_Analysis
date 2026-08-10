@@ -41,7 +41,7 @@ Dates are stored directly in the fact tables, not in a separate date dimension.
 
 * Unit price comparison
 
-## Selected Insights 
+## Key Insights 
 *Walmart accounted for nearly half of the total listings in this retail dataset. 
 
 
